@@ -2,27 +2,27 @@
 <h3 align="center">I'm Alexander Derevyanko, QA Engineer from "sunny" St.Petersburg :anchor::sun_behind_rain_cloud:</h3>
 <h3 align="center"></h3>
 
-- :trophy: I have over **2 years experience in QA**
+- :trophy: I have over **1.5 years experience in QA**
 
-- :hammer_and_wrench: I worked on different projects: **Web & Mobile**
+- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop**
 
-- 🌱 But I'm still a beginner in the field of **automation and programming**
+- :mortar_board: I have been studying **automation and programming** for about six months
 
-- :snowflake: I'm currently working remotely in outsourced international company **SimbirSoft** 
+- :snowflake: I'm currently working remotely in outsourced international company **'SimbirSoft'** 
 
 - 📄 Know about my experiences - you can **request me for CV** by email/telegram
 
 <h3 align="left">What I do: </h3>
 
-💻-Web Automation
+💻&nbsp;Web Automation
 
-📱--Mobile Automation
+📱&nbsp;&nbsp;Mobile Automation
 
-🛠-API Automation
+🛠&nbsp;API Automation
 
 <h3 align="left">:email:	Connect with me: </h3>
 <h4 align="left">Telegram: https://t.me/alexstark_spb </h4>
-<h4 align="left">Email: alexandr_kln@mail.ru </h4>
+<h4 align="left">LinkedIn: (The link will appear in the future) </h4>
 
 ___
 <h3 align="left">My Technology Stack:</h3>
