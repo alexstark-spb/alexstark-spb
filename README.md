@@ -24,6 +24,11 @@
 <h4 align="left">Telegram: https://t.me/alexstark_spb </h4>
 <h4 align="left">LinkedIn: (The link will appear in the future) </h4>
 
+
+
+### My latest project: 
+#### [Автотесты для интернет-магазина 'Буквоед' (UI tests)](https://github.com/alexstark-spb/bookvoed-tests/)
+
 ___
 <h3 align="left">My Technology Stack:</h3>
 
