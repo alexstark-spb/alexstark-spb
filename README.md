@@ -1,5 +1,5 @@
 <h2 align="center">:wave: Hi everyone! Wellcome to my GitHub</h2>
-<h3 align="center">I'm Alexander Derevyanko, QA Engineer from "sunny" St.Petersburg :anchor::sun_behind_rain_cloud:</h3>
+<h3 align="center">I'm Alexander, QA Engineer from "sunny" St.Petersburg :anchor::sun_behind_rain_cloud:</h3>
 <h3 align="center"></h3>
 
 - :trophy: I have over **1.5 years experience in QA**
