@@ -30,6 +30,7 @@
 ### My latest project:
 #### Ui tests:
 #### - [Автотесты для интернет-магазина 'Буквоед'](https://github.com/alexstark-spb/bookvoed-tests/)
+#### - [Проект с автотестами для сайта: demoqa.com'](https://github.com/alexstark-spb/demoqa-withAllureAndJenkins-tests)
 #### Api tests:
 #### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
 #### Mobile tests:
