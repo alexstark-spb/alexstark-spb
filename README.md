@@ -1,10 +1,10 @@
 <h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>
-<h3 align="center">I'm Alexander, QA Engineer from "sunny" St.Petersburg :anchor::sun_behind_rain_cloud:</h3>
+<h3 align="center">I'm Alexander, Fullstack QA Engineer from "sunny" St.Petersburg :anchor::sun_behind_rain_cloud:</h3>
 <h3 align="center"></h3>
 
-- :trophy: I have over **1.5 years experience in QA**
+- :trophy: I have over **2 years experience in QA**
 
-- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop**
+- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA
 
 - :mortar_board: I have been studying **automation and programming** for about six months
 
@@ -16,18 +16,25 @@
 
 💻&nbsp;Web Automation
 
-📱&nbsp;&nbsp;Mobile Automation
+📱&nbsp;&nbsp;Mobile Automation 
 
-🛠&nbsp;API Automation
+🌐&nbsp;API Automation
 
 <h3 align="left">:email:	Connect with me: </h3>
 <h4 align="left">Telegram: https://t.me/alexstark_spb </h4>
+<h4 align="left">E-mail: alexandr_kln@mail.ru </h4>
 <h4 align="left">LinkedIn: (The link will appear in the future) </h4>
 
 
 
-### My latest project: 
-#### [Автотесты для интернет-магазина 'Буквоед' (UI tests)](https://github.com/alexstark-spb/bookvoed-tests/)
+### My latest project:
+#### Ui tests:
+#### - [Автотесты для интернет-магазина 'Буквоед'](https://github.com/alexstark-spb/bookvoed-tests/)
+#### Api tests:
+#### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
+#### Mobile tests:
+#### - (The link will appear in the future)
+
 
 ___
 <h3 align="left">My Technology Stack:</h3>
