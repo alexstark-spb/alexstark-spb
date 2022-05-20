@@ -6,7 +6,7 @@
 
 - :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA
 
-- :mortar_board: I have been studying **automation and programming** for about six months
+- :mortar_board: I have been studying **automation and programming** for about eight months
 
 - :snowflake: I'm currently working remotely in outsourced international company **'SimbirSoft'** 
 
