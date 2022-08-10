@@ -20,23 +20,7 @@
 
 📱&nbsp;&nbsp;Mobile Automation 
 
-### :email:	Connect with me:
-+ [Telegram](https://t.me/alexstark_spb)
-+ Email: alexandr_kln@mail.ru
-+ LinkedIn (The link will appear in the future)
-
-### My latest project:
-#### Ui tests:
-#### - [Автотесты для интернет-магазина 'Буквоед'](https://github.com/alexstark-spb/bookvoed-tests/)
-#### - [Проект с автотестами для сайта: demoqa.com'](https://github.com/alexstark-spb/demoqa-withAllureAndJenkins-tests)
-#### Api tests:
-#### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
-#### Mobile tests:
-#### - (The link will appear in the future)
-
-
-___
-<h3 align="left">My Technology Stack:</h3>
+<h3 align="left">My technology stack:</h3>
 
 | IntelliJ IDEA | Java | Gradle | Junit5 | Selenium | Selenide | Selenoid | Rest-Assured | Appium |
 |:------:|:----:|:----:|:------:|:------:|:------:|:------:|:------:|:------:|
@@ -46,8 +30,30 @@ ___
 |:------:|:----:|:----:|:------:|:------:|:--------:|:------:|:------:|:------:|
 | <img src="https://starchenkov.pro/qa-guru/img/skills/Github.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg" width="60" height="60"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="50" height="50"> |
 
-___
+### My latest project:
+#### Ui tests:
+#### - [Автотесты для интернет-магазина 'Буквоед'](https://github.com/alexstark-spb/bookvoed-tests/)
+#### - [Проект с автотестами для сайта: demoqa.com'](https://github.com/alexstark-spb/demoqa-withAllureAndJenkins-tests)
+#### Api tests:
+#### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
+#### Mobile tests:
+#### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
 
+### :open_umbrella: When I'm not testing or programming you can find me:
+
+:weight_lifting:  <code><strong>*Exercising in the gym*</strong></code>
+
+:open_book:  <code><strong>*Reading educational books and articles*</strong></code>
+
+:film_strip:  <code><strong>*Watching interesting movies and seriesr*</strong></code>
+
+:walking_man: <code><strong>*Having enjoy for a walk*</strong></code>
+
+### :email:	Connect with me:
++ [Telegram](https://t.me/alexstark_spb)
++ Email: alexandr_kln@mail.ru
++ LinkedIn (The link will appear in the future)
+___
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexstark-spb&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="alexstark-spb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexstark-spb&theme=great-gatsby&show_icons=true&locale=en" alt="alexstark-spb" /></p>
