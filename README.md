@@ -11,7 +11,7 @@
 - :snowflake: I'm currently working remotely in outsourced international company **'SimbirSoft'** 
 
 - 📄 Know about my experience - you can **request me for CV** by email/telegram
-___
+
 <h3 align="left">What I do: </h3>
 
 💻&nbsp;Web Automation
@@ -19,7 +19,7 @@ ___
 🌐&nbsp;API Automation
 
 📱&nbsp;&nbsp;Mobile Automation 
-___
+
 <h3 align="left">My technology stack:</h3>
 
 | IntelliJ IDEA | Java | Gradle | Junit5 | Selenium | Selenide | Selenoid | Rest-Assured | Appium |
@@ -29,7 +29,7 @@ ___
 | GitHub | Jenkins | Docker | Browserstack | Allure Report | Allure TestOps | Slack | Telegram | Jira |
 |:------:|:----:|:----:|:------:|:------:|:--------:|:------:|:------:|:------:|
 | <img src="https://starchenkov.pro/qa-guru/img/skills/Github.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg" width="60" height="60"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="50" height="50"> |
-___
+
 ### My latest project:
 #### Ui tests:
 #### - [Автотесты для интернет-магазина 'Буквоед'](https://github.com/alexstark-spb/bookvoed-tests/)
@@ -37,8 +37,8 @@ ___
 #### Api tests:
 #### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
 #### Mobile tests:
-#### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
-___
+#### - (The link will appear in the future)
+
 ### :open_umbrella: When I'm not testing or programming you can find me:
 
 :weight_lifting:  <code><strong>*Exercising in the gym*</strong></code>
@@ -48,7 +48,7 @@ ___
 :film_strip:  <code><strong>*Watching interesting movies and series*</strong></code>
 
 :walking_man: <code><strong>*Having enjoy for a walk*</strong></code>
-___
+
 ### :email:	Connect with me:
 + [Telegram](https://t.me/alexstark_spb)
 + Email: alexandr_kln@mail.ru
