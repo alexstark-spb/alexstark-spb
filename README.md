@@ -6,7 +6,7 @@
 
 - :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA
 
-- :mortar_board: I have been studying **automation and programming** for about eight months
+- :mortar_board: I have been automating and programming for about a year
 
 - :snowflake: I'm currently working remotely in outsourced international company **'SimbirSoft'** 
 
@@ -16,16 +16,14 @@
 
 💻&nbsp;Web Automation
 
-📱&nbsp;&nbsp;Mobile Automation 
-
 🌐&nbsp;API Automation
 
-<h3 align="left">:email:	Connect with me: </h3>
-<h4 align="left">Telegram: https://t.me/alexstark_spb </h4>
-<h4 align="left">E-mail: alexandr_kln@mail.ru </h4>
-<h4 align="left">LinkedIn: (The link will appear in the future) </h4>
+📱&nbsp;&nbsp;Mobile Automation 
 
-
+### :email:	Connect with me:
++ [Telegram](https://t.me/alexstark_spb)
++ Email: alexandr_kln@mail.ru
++ LinkedIn (The link will appear in the future)
 
 ### My latest project:
 #### Ui tests:
