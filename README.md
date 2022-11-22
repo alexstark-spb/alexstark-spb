@@ -4,7 +4,7 @@
 
 - :trophy: I have over **2 years experience in QA**
 
-- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web** as a automation QA
+- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
 
 - :keyboard: I have been automating and programming for about a year
 
@@ -36,8 +36,6 @@
 #### - [Проект с автотестами для сайта: demoqa.com'](https://github.com/alexstark-spb/demoqa-withAllureAndJenkins-tests)
 #### Api tests:
 #### - [API автотесты для проектов: demowebshop, demoqa, somebank](https://github.com/alexstark-spb/demoWebShopAPI-tests)
-#### Mobile tests:
-#### - (The link will appear in the future)
 
 ### :open_umbrella: When I'm not testing or programming you can find me:
 
