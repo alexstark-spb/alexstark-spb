@@ -2,13 +2,13 @@
 <h3 align="center">I'm Alexander, Fullstack QA Engineer from "sunny" St.Petersburg :anchor::sun_behind_rain_cloud:</h3>
 <h3 align="center"></h3>
 
-- :trophy: I have over **2 years experience in QA**
+- :trophy: I have over **2.5 years experience in QA**
 
 - :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
 
-- :keyboard: I have been automating and programming for about a year
+- :keyboard: I have been doing automation and programming for about **1.5 years**
 
-- :snowflake: I'm currently working remotely in outsourced international company **'SimbirSoft'** 
+- :snowflake: I'm currently working remotely in outsourced international [SimbirSoft LLC company](https://www.simbirsoft.com/en/) 
 
 - 📄 Know about my experience - you can **request me for CV** by email/telegram
 
