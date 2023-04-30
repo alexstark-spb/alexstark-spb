@@ -15,13 +15,11 @@
 
 <h3 align="left">What I do: </h3>
 
-💻&nbsp;Web Automation
+💻&nbsp;UI Automation
 
 🌐&nbsp;API Automation
 
-📱&nbsp;&nbsp;Mobile Automation 
-
-<h3 align="left">My technology stack:</h3>
+<h3 align="left">My tech stack:</h3>
 
 | IntelliJ IDEA | Java | Gradle | Junit5 | Selenium | Selenide | Selenoid |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
