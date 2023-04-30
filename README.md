@@ -15,9 +15,11 @@
 
 <h3 align="left">What I do: </h3>
 
-💻&nbsp;UI Automation
+:computer: UI Automation
 
-🌐&nbsp;API Automation
+:globe_with_meridians: API Automation
+
+:rocket: Development of a test framework and preparation of modules from scratch
 
 <h3 align="left">My tech stack:</h3>
 
