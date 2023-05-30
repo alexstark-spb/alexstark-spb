@@ -1,6 +1,6 @@
 <h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>
 <h3 align="center">I'm Alexander, Fullstack QA Engineer from "sunny" St.Petersburg(RU) :anchor::sun_behind_rain_cloud:</h3>
-<h3 align="center">But at the moment I live in Izmir, Turkey :palm_tree:</h3>
+<h3 align="center">But at the moment I live in Belgrade, Serbia :palm_tree:</h3>
 <h3 align="center"></h3>
 
 - :trophy: I have over **3 years experience in QA**
