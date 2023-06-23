@@ -7,7 +7,7 @@
 
 - :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
 
-- :keyboard: I have been doing automation and programming for about **1.5 years**
+- :keyboard: I have been doing automation and programming for about **2 years**
 
 - :snowflake: I'm currently working remotely in outsourced international [SimbirSoft LLC company](https://www.simbirsoft.com/en/) 
 
