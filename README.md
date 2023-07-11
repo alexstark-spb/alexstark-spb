@@ -54,8 +54,8 @@
 
 ### :email:	Connect with me:
 + [Telegram](https://t.me/alexstark_spb)
-+ [Email](alexderevyanko.spb@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/mr-alexstark/)
++ Email: alexderevyanko.spb@gmail.com
 
 _Thank you for your attention_
 ___
