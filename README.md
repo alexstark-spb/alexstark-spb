@@ -9,7 +9,7 @@
 
 - :keyboard: I have been doing automation and programming for about **2.5 years**
 
-- :snowflake: I'm currently working remotely in outsourced international [SimbirSoft LLC company](https://www.simbirsoft.com/en/) 
+- :snowflake: I'm currently working remotely in a fintech company [PashaPay](https://pashapay.az/en) 
 
 - 📄 Know about my experience - you can **request me for CV** by email/telegram
 
