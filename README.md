@@ -3,11 +3,11 @@
 <h3 align="center">But at the moment I live in Belgrade, Serbia</h3>
 <h3 align="center"></h3>
 
-- :trophy: I have over **4.5 years experience in QA**
+- :trophy: I have over **5 years experience in QA**
 
-- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
+- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API) + Mobile** as a automation QA
 
-- :keyboard: I have been doing automation and programming for about **2.5 years**
+- :keyboard: I have been doing automation and programming for about **3.5 years**
 
 - :snowflake: I'm currently working remotely in a fintech company [PashaPay](https://pashapay.az/en) 
 
